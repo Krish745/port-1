@@ -1,0 +1,33 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+     font-family:  'poppins' sans-serif;
+    /* font-family: "Merienda", cursive; */
+}
+
+.navbar-brand img {
+    width: 75%;
+}
+/* .heroImage img {
+    width: 50%;
+    height: 50%;
+} */
+/* .body {
+    background-image: url(./assets/images/hero.2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+} */
+.navbar-nav a{
+    /* font-size: 20px; */
+    font-weight: 500;
+    font-family:   "Segoe UI";
+}
+
+.aboutImage img {
+    width: 40%;
+}
